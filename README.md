@@ -27,11 +27,14 @@ For instance if the initial size which I manualy set is too big (talking about n
 ![image](https://user-images.githubusercontent.com/56975146/114942447-8bfac700-9e12-11eb-84b9-4ef8536004dc.png)
 
 
-I am going to shrink menu and see that I have 82 % available space
+I am going to shrink menu and see that I have 82 % available space. Afteward, I hose shrink action: released unused space and click ok. 
 
 ![image](https://user-images.githubusercontent.com/56975146/114942624-cd8b7200-9e12-11eb-8a28-85c4f4228cb3.png)
 ![image](https://user-images.githubusercontent.com/56975146/114942773-062b4b80-9e13-11eb-8ee2-904f1ad9fbaa.png)
 
+
+As a result I got 
+![image](https://user-images.githubusercontent.com/56975146/114943085-7934c200-9e13-11eb-9d9e-251442f55119.png)
 
 
 
