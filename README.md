@@ -6,8 +6,7 @@ For this purpose, I used relational database management system (RDBMS) Microsoft
 Before I started performing basic database maintenance, I had activated SQL Server Agent 
 ![image](https://user-images.githubusercontent.com/56975146/114936753-d8420900-9e0a-11eb-9dec-de1463d7428a.png)
 
-After I opened Maintainance Plan Wizard, and from the right top side, there is the toolbox there are main database tasks.
-Now, I can do all the tasks by using a comfortable GUI interface. 
+All I need right now are Maintainance Plan Wizard and the toolbox with listed main database tasks.
 For example Backup
 ![image](https://user-images.githubusercontent.com/56975146/114938035-9c0fa800-9e0c-11eb-9dcf-c58e2bbdac12.png)
 
@@ -19,8 +18,7 @@ For example Backup
 
 ![image](https://user-images.githubusercontent.com/56975146/114939040-e04f7800-9e0d-11eb-9d73-5da7b7c00da9.png)
 
-The next step is the shrinking data which does not use Maintainance Plan Wizard.
-
+The next step is the shrinking data. In this case I did not use Maintainance Plan Wizard
 
 For instance, if the initial size which I manually set is too big (talking about number 20 MB)
 
