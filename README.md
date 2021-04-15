@@ -42,6 +42,13 @@ The next logical step is reorganizing and rebuilding indexes.
 
 
 
+And the last task is Updating database statistics
+
+![image](https://user-images.githubusercontent.com/56975146/114945175-d8e09c80-9e16-11eb-8856-f50ba97c916c.png)
+
+
+
+
 
 
 
