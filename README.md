@@ -1,6 +1,5 @@
 # Clients
-Istrucrtion was taken from: https://codingsight.com/creating-database-maintenance-plans/
-https://www.youtube.com/watch?v=FtrRWaYnsyM&t=1s&ab_channel=TechBrothersIT
+
 Database maintenance 
 For this purpose, I used relational database management system (RDBMS) Microsoft SQL Server with the database ClientInfo
 ![image](https://user-images.githubusercontent.com/56975146/114936271-34f0f400-9e0a-11eb-9d21-7057cd94faca.png)
@@ -49,6 +48,10 @@ And the last task is Updating database statistics
 ![image](https://user-images.githubusercontent.com/56975146/114945175-d8e09c80-9e16-11eb-8856-f50ba97c916c.png)
 
 
+
+
+Istrucrtion was taken from: https://codingsight.com/creating-database-maintenance-plans/
+https://www.youtube.com/watch?v=FtrRWaYnsyM&t=1s&ab_channel=TechBrothersIT
 
 
 
