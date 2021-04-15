@@ -1,4 +1,6 @@
 # Clients
+Istrucrtion was taken from: https://codingsight.com/creating-database-maintenance-plans/
+https://www.youtube.com/watch?v=FtrRWaYnsyM&t=1s&ab_channel=TechBrothersIT
 Database maintenance 
 For this purpose, I used relational database management system (RDBMS) Microsoft SQL Server with the database ClientInfo
 ![image](https://user-images.githubusercontent.com/56975146/114936271-34f0f400-9e0a-11eb-9d21-7057cd94faca.png)
