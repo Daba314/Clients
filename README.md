@@ -26,6 +26,10 @@ For instance if the initial size which I manualy set is too big (talking about n
 
 ![image](https://user-images.githubusercontent.com/56975146/114942447-8bfac700-9e12-11eb-84b9-4ef8536004dc.png)
 
+
 I am going to shrink menu and see that 
+
+![image](https://user-images.githubusercontent.com/56975146/114942624-cd8b7200-9e12-11eb-8a28-85c4f4228cb3.png)
+
 
 
