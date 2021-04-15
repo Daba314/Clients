@@ -5,3 +5,7 @@ For this purpose I used relational database management system (RDBMS) Microsoft 
 
 Before I started performing basic database maintenance I had activated SQL Server Agent 
 ![image](https://user-images.githubusercontent.com/56975146/114936753-d8420900-9e0a-11eb-9dec-de1463d7428a.png)
+
+After I opened Maintainance Plan Wizard there the main task are  performed.
+By confortable GUI interface i have done all the tasks. 
+For example Backup
