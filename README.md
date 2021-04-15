@@ -9,3 +9,5 @@ Before I started performing basic database maintenance I had activated SQL Serve
 After I opened Maintainance Plan Wizard there the main task are  performed.
 By confortable GUI interface i have done all the tasks. 
 For example Backup
+![image](https://user-images.githubusercontent.com/56975146/114938035-9c0fa800-9e0c-11eb-9dcf-c58e2bbdac12.png)
+
