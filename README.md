@@ -19,3 +19,8 @@ Also CLeanUp task and Ckeck database Integrity task
 
 ![image](https://user-images.githubusercontent.com/56975146/114939040-e04f7800-9e0d-11eb-9d73-5da7b7c00da9.png)
 
+The next step is the shrinking data which does not use Maintainance Plan Wizard.
+For instance if the initial size is too big (talking about number 20 MB)
+I am going to shrink menu and see that 
+
+
