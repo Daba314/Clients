@@ -38,6 +38,9 @@ As a result, I have got reasonable allocated space (8 MB)
 
 The next logical step is reorganizing and rebuilding indexes.
 
+![image](https://user-images.githubusercontent.com/56975146/114944732-24467b00-9e16-11eb-8c17-37a502d5a662.png)
+
+
 
 
 
