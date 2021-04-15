@@ -33,7 +33,8 @@ I am going to shrink menu and see that I have 82 % available space. Afteward, I 
 ![image](https://user-images.githubusercontent.com/56975146/114942773-062b4b80-9e13-11eb-8ee2-904f1ad9fbaa.png)
 
 
-As a result I got 
+As a result I have got reasonable allocated space (8 MB)
+
 ![image](https://user-images.githubusercontent.com/56975146/114943085-7934c200-9e13-11eb-9d9e-251442f55119.png)
 
 
